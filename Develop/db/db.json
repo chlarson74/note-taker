@@ -1,0 +1,11 @@
+[
+    {
+        "title":"Test Title",
+        "text":"Test text"
+    }
+]
+
+// how am I going to read from the file?
+// how am I going to treat this file as an array of objects?
+// how am I going to push a new item to this array?
+// how an I going to write this back to the file?
